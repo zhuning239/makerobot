@@ -1,7 +1,7 @@
 {
     "target": "microbit",
-    "targetVersion": "1.1.40",
-    "name": "robotbit",
+    "targetVersion": "3.0",
+    "name": "makerobot",
     "meta": {},
     "editor": "tsprj",
     "pubId": "",
@@ -14,5 +14,5 @@
     "blobVersion": null,
     "blobCurrent": false,
     "isDeleted": false,
-    "path": "pxt-robotbit"
+    "path": "makerobot"
 }
