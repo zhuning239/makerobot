@@ -6,7 +6,8 @@
     "dependencies": {
         "core": "*",
         "neopixel": "github:microsoft/pxt-neopixel#v0.6.9",
-        "cbit_IR": "github:zhuning239/cBit_IR"
+        "cbit_IR": "github:zhuning239/cBit_IR",
+        "sonar": "github:zhuning239/sonar"
     },
     "files": [
         "README.md",
